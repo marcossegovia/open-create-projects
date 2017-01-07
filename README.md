@@ -1,6 +1,6 @@
 # open-create-projects
 
-With this script you will be able to open/create projects directly from your terminal with a high speed !
+With this script you will be able to open/create projects directly from your terminal at a high speed !
 
 Opening existing projects
 ![](http://recordit.co/LDskdQ3q3t.gif)
