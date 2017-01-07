@@ -3,10 +3,10 @@
 With this script you will be able to open/create projects directly from your terminal with a high speed !
 
 Opening existing projects
-![](http://recordit.co/LDskdQ3q3t)
+![](http://recordit.co/LDskdQ3q3t.gif)
 
 Creating new projects
-![](http://recordit.co/DHHZmdb0oB)
+![](http://recordit.co/DHHZmdb0oB.gif)
 
 ## Configuration
 
