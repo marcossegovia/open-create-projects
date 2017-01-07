@@ -17,3 +17,4 @@ Creating new projects
 3. Create an alias that matches the script following the language identifier, e.g.
 `alias cdvo="open_create_projects php"`
 
+Special credits to [Marc Cornellà](https://github.com/mcornella)
