@@ -17,4 +17,5 @@ Creating new projects
 3. Create an alias that matches the script following the language identifier, e.g.
 `alias cdvo="open_create_projects php"`
 
+4. Be sure you have created a command-line launcher with your jetbrains IDE. `Tools` -> `Create Command-line Launcher` -> set to default (e.g. /usr/local/bin/phpstorm)
 Special credits to [Marc Cornellà](https://github.com/mcornella)
