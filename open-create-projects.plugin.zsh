@@ -32,15 +32,9 @@ _open_create_projects() {
         php        ${my_php_projects_path}
         go        ${my_golang_projects_path}
     )
-
-   case ${words[2]} in
-       go)      
-               _arguments ':code platform:(php go)' \
-               '*:project:_files -/ -W $projects_path[go]';;
-       php)
-               _arguments ':code platform:(php go)' \
-               '*:project:_files -/ -W $projects_path[php]';;
-   esac
+    
+    _arguments ':code platform:(php go)' \
+    '*:project:_files -/ -W $projects_path[${words[2]}]'
 }
 
 compdef _open_create_projects open_create_projects
