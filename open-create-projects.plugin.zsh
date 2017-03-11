@@ -1,5 +1,5 @@
 my_php_projects_path="$HOME/Documents/vagrant_ubuntu12x32/public"
-my_golang_projects_path="$HOME/Documents/go-workspace/src/github.com/MarcosSegovia"
+my_golang_projects_path="$HOME/Documents/go-workspace/src/github.com/marcossegovia"
 
 open_create_projects() {
     local -A projects_path
